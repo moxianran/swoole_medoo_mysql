@@ -1,0 +1,35 @@
+[2017-12-21 11:32:51 *9970.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 11:32:51 $9942.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-12-21 11:32:51 *9969.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 11:32:51 *9967.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 11:32:51 *9968.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 11:33:43 *10991.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 11:33:43 *10989.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 11:33:43 *10990.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 11:33:43 *10988.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 11:33:43 $10963.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-12-21 13:57:49 *11093.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 13:57:49 *11091.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 13:57:49 *11092.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 13:57:49 $11065.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-12-21 13:57:49 *11090.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 13:57:53 ^15313.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Non-static method PDO::lastInsertId() cannot be called statically, assuming $this from incompatible context in /data/www/crmxu/server/mysql_server.php on line 214.
+[2017-12-21 13:57:53 $15308.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2017-12-21 14:01:14 ^15314.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Non-static method PDO::lastInsertId() cannot be called statically, assuming $this from incompatible context in /data/www/crmxu/server/mysql_server.php on line 214.
+[2017-12-21 14:01:14 $15308.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2017-12-21 14:09:44 ^15315.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Non-static method PDO::lastInsertId() cannot be called statically, assuming $this from incompatible context in /data/www/crmxu/server/mysql_server.php on line 214.
+[2017-12-21 14:09:44 $15308.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2017-12-21 14:13:05 ^15316.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Non-static method PDO::lastInsertId() cannot be called statically, assuming $this from incompatible context in /data/www/crmxu/server/mysql_server.php on line 214.
+[2017-12-21 14:13:05 $15308.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2017-12-21 14:14:42 *15334.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 14:14:42 *15335.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 14:14:42 *15333.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 14:14:42 $15308.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-12-21 14:14:59 ^16129.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Non-static method PDO::lastInsertId() cannot be called statically, assuming $this from incompatible context in /data/www/crmxu/server/mysql_server.php on line 217.
+[2017-12-21 14:14:59 $16124.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2017-12-21 14:16:25 *15336.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 14:16:48 *16151.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 14:16:48 *16149.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 14:16:48 *16150.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-12-21 14:16:48 $16124.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-12-21 14:18:19 *16152.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
